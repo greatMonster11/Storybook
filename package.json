@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@storybook/addon-info": "^4.1.4",
+    "@storybook/addon-knobs": "^4.1.4",
     "@storybook/addons": "^4.1.4",
     "@storybook/react": "^4.1.4",
     "babel-core": "^6.26.3",
